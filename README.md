@@ -1,6 +1,6 @@
 # 🌃 CyberpunkOS - Android 16 GSI
 
-Bienvenido a la página oficial de descarga de mi Custom ROM con temática Cyberpunk oscuro y acentos neón. 
+Bienvenido a la página oficial de descarga de mi Custom ROM con temática Cyberpunk.
 
 ## ⚠️ IMPORTANTE: Comprueba la compatibilidad antes de flashear
 
